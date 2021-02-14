@@ -10,7 +10,7 @@
     const bright = {
         '--color-bg': '#fcfcfc',
         '--color-title': '#333',
-        '--color-separator': '#ccc',
+        '--color-separator': '#eee',
         '--color-btn': 'orangered',
         '--color-btn-border': 'orangered',
     }
