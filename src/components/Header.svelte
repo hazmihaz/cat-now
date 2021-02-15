@@ -4,7 +4,7 @@
 
 <header>
     <div>
-        <img src="favicon.png" alt="" />
+        <img src="icons/128x128.png" alt="" />
         <h1>Cat Now!</h1>
     </div>
     <div>
