@@ -44,7 +44,7 @@
     </div>
     <div class="actions">
         <button on:click={download}>Download</button>
-        <button on:click={copy}>Copy Url</button>
+        <button on:click={copy}>Copy URL</button>
     </div>
     <div id="clipboard" class="hidden">{src}</div>
 </main>
